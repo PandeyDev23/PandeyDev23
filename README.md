@@ -1,13 +1,13 @@
 <div align="center">
   
-  <!-- HEADER: Typing Effect -->
+  <!-- HEADER -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ashutosh+Pandey!+👋;Crafting+Digital+Dreams...;Full-Stack+Developer+👨‍💻;JavaScript+Enthusiast+💛" alt="Typing SVG" />
   </a>
   
   <h3 align="center">Crafting digital dreams with lines of code 🌙✨</h3>
 
-  <!-- SOCIALS & VISITOR COUNT -->
+  <!-- SOCIALS -->
   <p align="center">
     <a href="https://github.com/PandeyDev23">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,9 +18,6 @@
     <a href="mailto:YOUR_EMAIL@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <br/>
-    <!-- VISITOR COUNTER -->
-    <img src="https://komarev.com/ghpvc/?username=PandeyDev23&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 </div>
 
@@ -39,15 +36,13 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+| **Frontend** | **Languages** | **Tools & git** |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
 </div>
 
 ---
@@ -56,10 +51,10 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 | 📂 **Project** | 📝 **Description** | 💻 **Tech** |
 |:---|:---|:---|
-| **[git-vision](https://github.com/PandeyDev23/git-vision)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=flat&logo=vercel&logoColor=white)](https://YOUR-GIT-VISION-LINK.vercel.app) | A responsive GitHub profile analyzer. Features a dark-themed UI, real-time API rate tracking, and instant repo visualization. | `Vanilla JS` `CSS` |
-| **[MacOS Clone](https://github.com/PandeyDev23/MacOS)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=flat&logo=vercel&logoColor=white)](https://YOUR-MACOS-LINK.vercel.app) | A web-based simulation of the macOS desktop environment. | `JavaScript` `CSS` |
-| **[Users-Using-Async](https://github.com/PandeyDev23/Users-Using-Async)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=flat&logo=vercel&logoColor=white)](https://YOUR-LINK-HERE.com) | Efficient user data handling demonstration using asynchronous JavaScript patterns. | `Async/Await` `Fetch API` |
-| **[WeatherWidget](https://github.com/PandeyDev23/WeatherWidget)** <br/> [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=flat&logo=vercel&logoColor=white)](https://YOUR-LINK-HERE.com) | A sleek, real-time weather dashboard. | `CSS` `API Integration` |
+| **[git-vision](https://github.com/PandeyDev23/git-vision)** | A responsive GitHub profile analyzer. Features a dark-themed UI, real-time API rate tracking, and instant repo visualization. | `Vanilla JS` `CSS` |
+| **[MacOS Clone](https://github.com/PandeyDev23/MacOS)** | A web-based simulation of the macOS desktop environment. | `JavaScript` `CSS` |
+| **[Users-Using-Async](https://github.com/PandeyDev23/Users-Using-Async)** | Efficient user data handling demonstration using asynchronous JavaScript patterns. | `Async/Await` `Fetch API` |
+| **[WeatherWidget](https://github.com/PandeyDev23/WeatherWidget)** | A sleek, real-time weather dashboard. | `CSS` `API Integration` |
 
 ---
 
@@ -67,10 +62,8 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 <div align="center">
   
-  <!-- SNAKE ANIMATION (Dark Mode Optimized) -->
-  <a href="https://github.com/PandeyDev23/PandeyDev23/actions/workflows/snake.yml">
-    <img src="https://github.com/PandeyDev23/PandeyDev23/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-  </a>
+  <!-- SPIDER-MAN SNAKE ANIMATION -->
+  <img src="https://raw.githubusercontent.com/PandeyDev23/PandeyDev23/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
   <br/><br/>
 
@@ -85,7 +78,4 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-  <br/>
-  <i>Let's build something amazing together!</i>
 </div>
-
