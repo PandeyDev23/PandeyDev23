@@ -58,14 +58,11 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ### 📊 **GitHub Analytics**
 
-### 📊 **GitHub Analytics**
-
+<!-- METRICS (Data Scientist Dashboard) -->
 <div align="center">
-  
-  <!-- 3D CITY ANIMATION -->
-  <img src="https://github.com/PandeyDev23/PandeyDev23/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D City" width="100%" />
+  <img src="https://metrics.lecoq.io/PandeyDev23?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&config.timezone=Asia%2FKolkata" alt="Metrics" width="100%">
+</div>
 
-  <br/><br/>
 
   <!-- STATS CARDS -->
   <img src="https://github-readme-stats.vercel.app/api?username=PandeyDev23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=38bdf8&curr_streak_num_color=38bdf8" height="170" alt="PandeyDev23's GitHub stats" />
