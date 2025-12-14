@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- HEADER: Fixed width/size to prevent cutting off -->
+  <!-- HEADER -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ashutosh+Pandey!+👋;Crafting+Digital+Dreams...;Full-Stack+Developer+👨‍💻;JavaScript+Enthusiast+💛" alt="Typing SVG" />
   
   <h3 align="center">Crafting digital dreams with lines of code 🌙✨</h3>
@@ -58,19 +58,12 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ### 📊 **GitHub Analytics**
 
-<!-- METRICS (Data Scientist Dashboard) -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/PandeyDev23?template=classic&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.colors=github&config.timezone=Asia%2FKolkata" alt="Metrics" width="100%">
-</div>
+  
+  <!-- SPIDER-MAN SNAKE ANIMATION -->
+  <img src="https://raw.githubusercontent.com/PandeyDev23/PandeyDev23/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
-
-  <!-- STATS CARDS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PandeyDev23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=38bdf8&curr_streak_num_color=38bdf8" height="170" alt="PandeyDev23's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyDev23&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&lang_count=6" height="170" alt="Top Languages" />
-
-</div>
-
+  <br/><br/>
 
   <!-- STATS CARDS -->
   <img src="https://github-readme-stats.vercel.app/api?username=PandeyDev23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=38bdf8&curr_streak_num_color=38bdf8" height="170" alt="PandeyDev23's GitHub stats" />
