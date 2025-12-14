@@ -1,7 +1,9 @@
 <div align="center">
   
   <!-- HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ashutosh+Pandey!+👋;Crafting+Digital+Dreams...;Full-Stack+Developer+👨‍💻;JavaScript+Enthusiast+💛" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ashutosh+Pandey!+👋;Crafting+Digital+Dreams...;Full-Stack+Developer+👨‍💻;JavaScript+Enthusiast+💛" alt="Typing SVG" />
+  </a>
   
   <h3 align="center">Crafting digital dreams with lines of code 🌙✨</h3>
 
@@ -21,7 +23,7 @@
 
 ---
 
-### 🚀 **About Me**
+### 🚀 About Me
 
 I am a passionate **Full-Stack Developer** focused on building responsive, user-centric web applications. My work revolves around the **JavaScript ecosystem**, where I love turning complex problems into elegant, dependency-free solutions.
 
@@ -31,7 +33,7 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -45,7 +47,7 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ---
 
-### 🏆 **Featured Projects**
+### 🏆 Featured Projects
 
 | 📂 **Project** | 📝 **Description** | 💻 **Tech** |
 |:---|:---|:---|
@@ -56,7 +58,7 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 GitHub Analytics
 
 <div align="center">
   
@@ -77,3 +79,4 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
+
