@@ -58,12 +58,22 @@ I am a passionate **Full-Stack Developer** focused on building responsive, user-
 
 ### 📊 **GitHub Analytics**
 
+### 📊 **GitHub Analytics**
+
 <div align="center">
   
-  <!-- SNAKE ANIMATION -->
-  <img src="https://raw.githubusercontent.com/PandeyDev23/PandeyDev23/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <!-- 3D CITY ANIMATION -->
+  <img src="https://github.com/PandeyDev23/PandeyDev23/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D City" width="100%" />
 
   <br/><br/>
+
+  <!-- STATS CARDS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PandeyDev23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=38bdf8&curr_streak_num_color=38bdf8" height="170" alt="PandeyDev23's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandeyDev23&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&lang_count=6" height="170" alt="Top Languages" />
+
+</div>
+
 
   <!-- STATS CARDS -->
   <img src="https://github-readme-stats.vercel.app/api?username=PandeyDev23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=38bdf8&curr_streak_num_color=38bdf8" height="170" alt="PandeyDev23's GitHub stats" />
